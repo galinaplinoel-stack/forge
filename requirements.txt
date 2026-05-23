@@ -1,0 +1,13 @@
+# FORGE - AI Code Generation Agent
+# No external dependencies required for core functionality
+# Add AI model SDKs as needed:
+
+# Optional: AI Model integrations
+# openai>=1.0.0
+# anthropic>=0.18.0
+# transformers>=4.35.0
+
+# Optional: Enhanced features
+# rich>=13.0.0        # Terminal formatting
+# click>=8.0.0        # CLI framework
+# pyyaml>=6.0         # YAML config support
