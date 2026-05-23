@@ -1,0 +1,7 @@
+agent/
+main.py
+cli.py
+requirements.txt
+__pycache__/
+*.pyc
+.git/
